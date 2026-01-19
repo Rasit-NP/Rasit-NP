@@ -10,7 +10,6 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         <br/>
     </div>
@@ -20,6 +19,8 @@
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
     </div>
 </div>
 <div align= "center"> 
@@ -30,10 +31,22 @@
     </div> 
 </div>
 <div align= "center"> 
+    <h2>💻 Projects</h2>
+    <div align= "left">
+            <h3>Nestudy | 그룹 스터디 관리 플랫폼</h3>
+            <p>SSAFY 1학기 관통프로젝트</p>
+
+- **역할** : 백엔드 개발, Discord 봇 및 서버 개발, 배포
+- **기술** : Django, FastAPI, Celery, Redis(Message Broker), Docker Compose
+- [GitHub](https://github.com/Juseong-Yu/SSAFY_GroupStudyPlanner)
+
+    </div>
+</div>
+<div align= "center"> 
     <h2>⏳ Tiemline</h2>
     <div align= "center">
         <h3>2025.07 ~ Now</h3>
-        <p>삼성 SW 아카데미 14기
+        <p>삼성 SW 아카데미 14기</p>
         <h3>2016.03 ~ 2025.02</h3>
         <p>연세대학교 이과대학 물리학과 학사 졸업</p>
     </div>
