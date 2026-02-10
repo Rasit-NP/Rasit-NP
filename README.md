@@ -33,13 +33,18 @@
 <div align= "center"> 
     <h2>💻 Projects</h2>
     <div align= "left">
-            <h3>Nestudy | 그룹 스터디 관리 플랫폼</h3>
-            <p>SSAFY 1학기 관통프로젝트</p>
+<h3>Nestudy | 그룹 스터디 관리 플랫폼</h3>
+<p>SSAFY 1학기 관통프로젝트</p>
 
 - **역할** : 백엔드 개발, Discord 봇 및 서버 개발, 배포
 - **기술** : Django, FastAPI, Celery, Redis(Message Broker), Docker Compose
 - [GitHub](https://github.com/Juseong-Yu/SSAFY_GroupStudyPlanner)
+<br>
+<h3>이웃집 웰리 | 올인원 복지 매니지먼트 서비스 </h3>
+<p>SSAFY 2학기 공통프로젝트</p>
 
+- **역할** : 백엔드 개발, 인프라(CI/CD, Https 배포)
+- **기술** : Spring Boot, MySQL, Docker Compose, Jenkins
     </div>
 </div>
 <div align= "center"> 
