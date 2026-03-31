@@ -45,6 +45,12 @@
 
 - **역할** : 백엔드 개발, 인프라(CI/CD, Https 배포)
 - **기술** : Spring Boot, MySQL, Docker Compose, Jenkins
+<br>
+<h3>Jupasu | 와인 추천 서비스</h3>
+<p>SSAFY 2학기 특화프로젝트</p>
+
+- **역할** : 인프라, 백엔드(추천 점수 로직 구현)
+- **기술** : Docker Compose, Jenkins, Prometheus, Grafana, Spring Boot
     </div>
 </div>
 <div align= "center"> 
