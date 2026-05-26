@@ -47,10 +47,17 @@
 - **기술** : Spring Boot, MySQL, Docker Compose, Jenkins
 <br>
 <h3>Jupasu | 와인 추천 서비스</h3>
-<p>SSAFY 2학기 특화프로젝트</p>
+<p>SSAFY 2학기 특화프로젝트 우수상</p>
 
 - **역할** : 인프라, 백엔드(추천 점수 로직 구현)
 - **기술** : Docker Compose, Jenkins, Prometheus, Grafana, Spring Boot
+<br>
+<h3>Hater | 타워 디펜스 웹 게임 서비스</h3>
+<p>SSAFY 2학기 자율프로젝트</p>
+
+- **역할** : 백엔드 개발
+- **기술** : Java 21, Spring Boot, PostgreSQL, Redis, JWT, RSA-AES 하이브리드 암호화
+- **서비스** : React 웹 포털 + Unity WebGL 게임 클라이언트 + Spring Boot REST API 구성, 클라이언트-서버 간 AES-256-GCM 암호화 통신 적용
     </div>
 </div>
 <div align= "center"> 
